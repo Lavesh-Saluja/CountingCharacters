@@ -1,0 +1,17 @@
+p{
+            padding:0px;
+            border:1px solid black;
+            color:rgb(128, 0, 79);
+            font-size:50px;
+            display:inline;
+
+            
+        }
+        #divi{
+            background: lightgrey;
+            width: fit-content;
+            height:fit-content;
+            align-self:stretch;
+            margin:auto;
+        }
+
