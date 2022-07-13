@@ -1,4 +1,4 @@
-# CharactrerCounter
+# CharacterCounter
 Hello Everyone 
 This is the Real time <h3>Character Counter </h3> 
 Made using<br>
